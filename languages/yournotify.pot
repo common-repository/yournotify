@@ -1,0 +1,140 @@
+# Copyright (C) 2022 Yournotify
+# This file is distributed under the GPL 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yournotify 1.0.3\n"
+"Report-Msgid-Bugs-To: https://yournotify.com/\n"
+"POT-Creation-Date: 2022-07-03 12:35:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: inc/yournotify-subscribe.php:20
+msgid "Yournotify"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:22
+msgid "Display a subscribe form for collecting emails with Yournotify."
+msgstr ""
+
+#: inc/yournotify-subscribe.php:60
+msgid "Your Name"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:61
+msgid "Your E-mail Address"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:62
+msgid "Subscribe!"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:104
+msgid "In order to use this widget, you have to: "
+msgstr ""
+
+#: inc/yournotify-subscribe.php:108
+msgid "%1$sVisit this URL and login with your Yournotify account%2$s,"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:109
+msgid "%1$sCreate an API key%2$s and paste it in the input field below,"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:110
+msgid ""
+"Click on the Connect button, so that your existing Yournotify lists can be "
+"retrieved,"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:111
+msgid ""
+"Select which list you want your visitors to subscribe to, from the dropdown "
+"menu below."
+msgstr ""
+
+#: inc/yournotify-subscribe.php:115
+msgid "Yournotify API key:"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:118
+msgid "Connect"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:123
+msgid "Loading ..."
+msgstr ""
+
+#: inc/yournotify-subscribe.php:129
+msgid "Yournotify list:"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:166
+#: inc/yournotify-subscribe.php:192
+msgid "There was an error connecting to the Yournotify servers."
+msgstr ""
+
+#: inc/yournotify-subscribe.php:177
+msgid "Error: %1$s (error code: %2$s)"
+msgstr ""
+
+#: inc/yournotify-subscribe.php:184
+msgid ""
+"There are no email lists with this API key! Please create an email list in "
+"the Yournotify dashboard and try again."
+msgstr ""
+
+#: inc/yournotify-subscribe.php:204
+msgid "Yournotify lists were successfully retrieved!"
+msgstr ""
+
+#: yournotify.php:83
+msgid "An error occurred while retrieving data via the AJAX request!"
+msgstr ""
+
+#: yournotify.php:84
+msgid "Please input the Yournotify API key!"
+msgstr ""
+
+#: yournotify.php:85
+msgid ""
+"This Yournotify API key is not formatted correctly, please copy the whole "
+"API key from the Yournotify dashboard!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yournotify"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yournotify/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Yournotify API integration that allows you to select which "
+"Yournotify list you want your visitors to subscribe to."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Yournotify"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yournotify.com"
+msgstr ""
